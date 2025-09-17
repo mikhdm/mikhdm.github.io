@@ -5,4 +5,4 @@ permalink: /about/
 ---
 ### Hey There!
 
-Software Engineer with over 9 years in backend development using Python, specializing in building scalable systems that power production applications.
+I'm a software engineer with over 9 years in backend development, specializing in building scalable systems.
