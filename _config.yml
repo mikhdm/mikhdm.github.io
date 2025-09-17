@@ -20,3 +20,4 @@ minima:
       title: GitHub
     - url: https://linkedin.com/in/mikhdm
       title: LinkedIn
+  hide_site_feed_link: true
