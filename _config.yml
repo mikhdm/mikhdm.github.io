@@ -1,15 +1,16 @@
-theme: minima
 title: Dmitry Mikhailenko
 email: d@mikhailenko.net
 description: >-
-
-header_pages:
-  - about.md
-  - contact.md
 
 baseurl: ""
 url: "mikhdm.github.io"
 github_username: mikhdm
 
+theme: minima
+
 minima:
   skin: solarized-light
+
+header_pages:
+  - about.md
+  - contact.md
