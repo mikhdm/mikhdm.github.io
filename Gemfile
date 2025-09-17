@@ -1,5 +1,4 @@
 # Gemfile
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.4"
-gem "minima", "2.5.2"
+gem "minima", github: "jekyll/minima", ref: "1fe0fbf"
