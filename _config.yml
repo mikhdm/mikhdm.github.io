@@ -2,8 +2,9 @@ theme: minima
 title: Dmitry Mikhailenko
 description: Software Engineer
 
+header_pages:
+  - about.md
+  - contact.md
+
 minima:
   skin: solarized-light
-  nav_pages:
-    - about.md
-    - contact.md
