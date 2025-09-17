@@ -1,10 +1,15 @@
 theme: minima
 title: Dmitry Mikhailenko
-description: Software Engineer
+email: d@mikhailenko.net
+description: >-
 
 header_pages:
   - about.md
   - contact.md
+
+baseurl: ""
+url: "mikhdm.github.io"
+github_username: mikhdm
 
 minima:
   skin: solarized-light
