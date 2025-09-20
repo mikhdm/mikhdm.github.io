@@ -87,6 +87,6 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 
 ## Personal projects
 
-- Demo API in Python to normalize addresses into country codes using machine learning (TF-IDF + Linear SVC) - [**GitHub**](https://github.com/mikhdm/countries-api);
-- A website for a theater and improvisation studio to improve its online presence - [**studio-action.com**](https://studio-action.com);
+- Demo API in Python to normalize addresses into country codes using ML (TF-IDF + Linear SVC) - [**GitHub**](https://github.com/mikhdm/countries-api);
+- A website for a theater and improvisation studio - [**studio-action.com**](https://studio-action.com);
 - HTML to PDF converter - [**GitHub**](https://github.com/mikhdm/wkhtmltopdf).
