@@ -79,14 +79,13 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 *National Research University of Electronic Technology, Moscow, Russia (2009–2013)*  
 - Thesis: *Qualitative analysis and exact solutions to the double sine-Gordon equation.* 
 
----
 ## Certifications
 
 - Certified Kubernetes Application Developer - [Credential](https://www.credly.com/badges/986d6889-2e51-4f23-b470-738959002684/public_url).
 
 ---
 
-### Personal projects
+## Personal projects
 
 - Demo API in Python to normalize addresses into country codes using machine learning (TF-IDF + Linear SVC) - [**GitHub**](https://github.com/mikhdm/countries-api);
 - A website for a theater and improvisation studio to improve its online presence - [**studio-action.com**](https://studio-action.com);
