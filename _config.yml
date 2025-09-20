@@ -13,7 +13,7 @@ remote_theme: jekyll/minima@1fe0fbf
 minima:
   skin: solarized-light
   nav_pages:
-    - about.md
+    - resume.md
     - contact.md
   social_links:
     - url: https://github.com/mikhdm
