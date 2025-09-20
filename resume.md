@@ -33,7 +33,7 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 
 *Amsterdam, Netherlands, October 2022 – June 2024*  
 
--  Optimized high-traffic API services, reducing latency by 50% and lowering memory usage, which cut operational costs.
+- Optimized high-traffic API services, reducing latency by 50% and lowering memory usage, which cut operational costs.
 - Migrated microservices to Helm and aligned observability stack (monitoring, alerting, runbooks), improving service reliability.  
 - Strengthened production resilience by enhancing CI/CD pipelines and service deployment processes.  
 
@@ -42,7 +42,7 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 
 *Moscow, Russia, June 2020 – September 2022*  
 
-- Designed and implemented a full CI/CD pipeline, accelerating release cycles and increasing reliability of API services.  
+- Designed and implemented CI/CD processes, accelerating release cycles and increasing reliability of API services.  
 - Developed backend microservices with Python and integrated APIs with external systems using diverse messaging protocols (HTTP, SOAP).
 
 
@@ -69,7 +69,7 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 ### École 42 (Codam) — Software Engineering
 
 *Moscow, Russia (2020–2022), Amsterdam, Netherlands (2023–2025)*  
-- **miniRT** – Ray tracing engine rendering simple geometric objects (C).  
+- **miniRT** – Ray-tracing engine rendering simple geometric objects (C).  
 - **ft_irc** – IRC TCP server built with Berkeley sockets and epoll (C++).  
 - [**Libft**](https://github.com/mikhdm/Libft.git) – Subset of the C standard library. 
 - [**push_swap**](https://github.com/mikhdm/push_swap.git) - Two stacks sorting commands generator.
