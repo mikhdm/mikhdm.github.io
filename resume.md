@@ -47,7 +47,7 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 - Developed backend microservices with Python and integrated APIs with external systems using diverse messaging protocols (HTTP, SOAP).
 
 
-### Vivid Money
+### Vivid Money - Full-Stack Engineer
 
 *Moscow, Russia, February 2020 - May 2020*
 
