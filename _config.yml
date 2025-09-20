@@ -16,7 +16,7 @@ minima:
   nav_pages:
     - index.md
     - resume.md
-    - contact.md
+    - contacts.md
   social_links:
     - url: https://github.com/mikhdm
       title: GitHub
