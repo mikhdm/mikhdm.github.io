@@ -190,6 +190,7 @@
     }
 
     &:last-child {
+      text-align: right;
       padding-right: 0;
       padding-left: $spacing-unit * .5;
     }
