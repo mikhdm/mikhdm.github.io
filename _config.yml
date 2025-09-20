@@ -18,6 +18,8 @@ minima:
   social_links:
     - url: https://github.com/mikhdm
       title: GitHub
+      icon: square-github
     - url: https://linkedin.com/in/mikhdm
       title: LinkedIn
+      icon: square-linkedin
   hide_site_feed_link: true
