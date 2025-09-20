@@ -10,6 +10,9 @@ github_username: mikhdm
 
 remote_theme: jekyll/minima@1fe0fbf
 
+plugins:
+  - jekyll-seo-tag
+
 minima:
   skin: solarized-light
   nav_pages:
