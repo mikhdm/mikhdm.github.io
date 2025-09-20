@@ -36,6 +36,7 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 - Optimized high-traffic API services, reducing latency by 50% and lowering memory usage, which cut operational costs.
 - Migrated microservices to Helm and aligned observability stack (monitoring, alerting, runbooks), improving service reliability.  
 - Strengthened production resilience by enhancing CI/CD pipelines and service deployment processes.  
+- Optimized and refactored an in-house Python word embeddings library, migrating models to the HDF5 format for improved efficiency and maintainability.  
 
 
 ### AR/VR Startup — Backend Engineer 
