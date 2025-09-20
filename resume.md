@@ -24,14 +24,14 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 
 ### Bullhorn — Python Engineer  
 
-*Amsterdam, Netherlands | June 2024 – Present*  
+*Amsterdam, Netherlands, June 2024 – Present*  
 
 - Refactored and standardized the internal microservice framework, enhancing maintainability and reliability across all dependent services.  
 - Built reusable libraries and upgraded all team-managed microservices, reducing technical debt and ensuring alignment with company standards.  
 
 ### Textkernel B.V. — Python Engineer 
 
-*Amsterdam, Netherlands | October 2022 – June 2024*  
+*Amsterdam, Netherlands, October 2022 – June 2024*  
 
 -  Optimized high-traffic API services, reducing latency by 50% and lowering memory usage, which cut operational costs.
 - Migrated microservices to Helm and aligned observability stack (monitoring, alerting, runbooks), improving service reliability.  
@@ -40,7 +40,7 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 
 ### AR/VR Startup — Backend Engineer 
 
-*Moscow, Russia |  June 2020 – September 2022*  
+*Moscow, Russia, June 2020 – September 2022*  
 
 - Designed and implemented a full CI/CD pipeline, accelerating release cycles and increasing reliability of API services.  
 - Developed backend microservices with Python and integrated APIs with external systems using diverse messaging protocols (HTTP, SOAP).
@@ -48,14 +48,14 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 
 ### Vivid Money
 
-*Moscow, Russia| February 2020 - May 2020*
+*Moscow, Russia, February 2020 - May 2020*
 
 - Improved the internal HR management system, enhancing the user interface and overall user experience.  
 
 
 ### ErgoSolo Ltd. — Full-Stack Engineer
 
-*Moscow, Russia | June 2015 – February 2020*  
+*Moscow, Russia, June 2015 – February 2020*  
 
 - Built a [digital certificate validation microservice](https://certs.ergosolo.ru/) for a touch-typing trainer.  
 - Designed and implemented a Russian digital vocabulary system leveraging explanatory, spelling, and synonym dictionaries; handled data cleaning, structured storage, and UI development, significantly boosting user engagement for the [online public speaking course](https://orator.nabiraem.ru).  
