@@ -1,9 +1,7 @@
 ---
 layout: home
-title: Home
+title: Hello and welcome here!
 ---
-
-Hello and welcome here!
 
 My name is Dmitry, and this is my little corner of the web where I share my thoughts mostly on software engineering, mathematics and GIS and a variety of other topics that inspire me.
 
