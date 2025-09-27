@@ -26,8 +26,8 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 
 *Amsterdam, Netherlands, June 2024 – Present*  
 
-- Refactored and standardized the internal microservice framework, enhancing maintainability and reliability across all dependent services.  
-- Built reusable libraries and upgraded all team-managed microservices, reducing technical debt and ensuring alignment with company standards.  
+- Refactored and standardized an internal microservice framework, significantly improving system reliability and making it easier for the team to contribute effectively;
+- Delivered reusable configuration and logging libraries that standardized operations across 10+ critical microservices and reduced deployment errors and technical debt.
 
 ### Textkernel B.V. — Python Engineer 
 
@@ -51,7 +51,7 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 
 *Moscow, Russia, February 2020 - May 2020*
 
-- Improved the internal HR management system, enhancing the user interface and overall user experience.  
+- Improved an internal HR management system by enhancing the user interface and overall user experience.
 
 
 ### ErgoSolo Ltd. — Full-Stack Engineer
