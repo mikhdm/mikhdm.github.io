@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Summary
 
-Experienced Software Engineer with 9+ years in backend and full-stack development, specializing in building scalable distributed systems.  
+Experienced Software Engineer with 9+ years in backend development, specializing in building scalable distributed systems.  
 Strong expertise in Python and cloud environments (Docker, Kubernetes, AWS).  
 A foundation in applied mathematics and ongoing studies at École 42 provide me with a solid base for tackling challenging engineering problems with both precision and creativity.
 
