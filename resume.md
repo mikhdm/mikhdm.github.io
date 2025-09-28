@@ -69,7 +69,7 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 ### École 42 (Codam) — Software Engineering
 
 *Moscow, Russia (2020–2022), Amsterdam, Netherlands (2023–2025)*  
-- **miniRT** – Ray-tracing engine rendering simple geometric objects (C).  
+- [**miniRT**](https://github.com/mikhdm/miniRT) – Ray-tracing engine rendering simple geometric objects (C).  
 - **ft_irc** – IRC TCP server built with Berkeley sockets and epoll (C++).  
 - [**Libft**](https://github.com/mikhdm/Libft.git) – Subset of the C standard library. 
 - [**push_swap**](https://github.com/mikhdm/push_swap.git) - Two stacks sorting commands generator.
