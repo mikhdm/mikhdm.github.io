@@ -14,10 +14,10 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 
 ## Core Skills
 
-- **Languages:** Python, Go, C++  
-- **Frameworks/Tools:**: FastAPI, Django, Pydantic, Scikit-learn, NumPy, HDF5, PostgreSQL, GitLab CI, Docker, Kubernetes, AWS
-- **Collaboration/Leadership**: Cross-team communication, peer-to-peer learning (École 42), technical leadership through best practices and system standardization
-- **Languages:** English (Professional), Russian (Native)
+- **Languages:** Python, Go, C++; 
+- **Frameworks/Tools:**: FastAPI, Django, Pydantic, Scikit-learn, NumPy, HDF5, PostgreSQL, GitLab CI, Docker, Kubernetes, AWS;
+- **Collaboration/Leadership**: Cross-team communication, peer-to-peer learning (École 42), technical leadership through best practices and system standardization;
+- **Languages:** English (Professional), Russian (Native).
 
 ---
 
@@ -51,7 +51,7 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 *Moscow, Russia, June 2015 – February 2020*  
 
 - Developed a color palette extraction system from photos, improving search on a [microstock photography website](https://ergofoto.ru/search);
-- Designed and implemented a Russian digital vocabulary system that utilizes explanatory, spelling, and synonym dictionaries; handled data cleaning, structured storage, and UI development, significantly increasing user engagement for the [online public speaking course](https://orator.nabiraem.ru)
+- Designed and implemented a Russian digital vocabulary system that utilizes explanatory, spelling, and synonym dictionaries; handled data cleaning, structured storage, and UI development, significantly increasing user engagement for the [online public speaking course](https://orator.nabiraem.ru);
 - Built a [digital certificate validation microservice](https://certs.ergosolo.ru/) for a touch-typing trainer, improving the reliability of the core project;
 - Integrated Elasticsearch and built backend and UI features for the microstock website’s [search functionality](https://ergofoto.ru/search).
 
