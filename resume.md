@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Summary
 
-Experienced Software Engineer with 9+ years in backend development, specializing in building scalable distributed systems.  
+Experienced Software Engineer with 9+ years in backend development, specializing in building scalable and resilient systems.  
 Strong expertise in Python and cloud environments (Docker, Kubernetes, AWS).  
 A foundation in applied mathematics and ongoing studies at École 42 provide me with a solid base for tackling challenging engineering problems with both precision and creativity.
 
@@ -14,7 +14,7 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 
 ## Core Skills
 
-- **Languages:** Python, C++, Go  
+- **Languages:** Python, Go, C++  
 - **Frameworks/Tools:** FastAPI, Django, Pydantic, PostgreSQL, GitLab CI, Docker, Kubernetes, AWS  
 - **Languages:** English (Professional), Russian (Native)
 
@@ -24,20 +24,20 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 
 ### Textkernel by Bullhorn  — Software Engineer, AI Team 
 
-*Amsterdam, Netherlands, October 2022 – Present 
+*Amsterdam, Netherlands, October 2022 – Present*
 
-- Optimized and refactored an in-house Python word embeddings library, migrating models to the HDF5 format for improved efficiency and maintainability.
-- Optimized several throughput intensive API services, reducing latency by 50% and lowering memory usage, which cut operational costs.
+- Optimized and refactored an in-house Python word embeddings library, migrating embedding models to the HDF5 format for improved efficiency and maintainability;
+- Optimized several throughput intensive API services, reducing latency by 50% and lowering memory usage, which cut operational costs;
 - Refactored and standardized an internal microservice framework, significantly improving system reliability and making it easier for the team to contribute effectively;
-- Delivered reusable configuration and logging libraries that standardized operations across 10+ critical microservices and reduced deployment errors and technical debt.
-- Migrated microservices to Helm and aligned observability stack (monitoring, alerting, runbooks), improving service reliability.
-- Strengthened production resilience by enhancing CI/CD pipelines and service deployment processes.
+- Delivered reusable configuration and logging libraries that standardized operations across 10+ critical microservices and reduced deployment errors and technical debt;
+- Migrated microservices to Helm and aligned observability stack (monitoring, alerting, runbooks), improving service reliability;
+
 
 ### AR/VR Startup — Backend Engineer 
 
 *Moscow, Russia, June 2020 – September 2022*  
 
-- Developed backend microservices with Python and integrated APIs with external systems using diverse messaging protocols.
+- Developed backend microservices with Python, integrating APIs with external systems using diverse messaging protocols.
 - Designed and implemented CI/CD processes, accelerating release cycles and increasing reliability of API services.  
 
 
@@ -45,16 +45,16 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 
 *Moscow, Russia, February 2020 - May 2020*
 
-- Improved an internal HR management system by enhancing the user interface and overall user experience.
+- Improved an internal HR management system by enhancing UI and overall user experience.
 
 
 ### ErgoSolo Ltd. — Full-Stack Engineer
 
 *Moscow, Russia, June 2015 – February 2020*  
 
-- Developed a color palette extraction system from photos, improving search and discovery on a [microstock photography website](https://ergofoto.ru/search).  
+- Developed a color palette extraction system from photos, improving search on a [microstock photography website](https://ergofoto.ru/search).  
 - Designed and implemented a Russian digital vocabulary system leveraging explanatory, spelling, and synonym dictionaries; handled data cleaning, structured storage, and UI development, significantly boosting user engagement for the [online public speaking course](https://orator.nabiraem.ru).  
-- Built a [digital certificate validation microservice](https://certs.ergosolo.ru/) for a touch-typing trainer imroving overall the core project reliability.  
+- Built a [digital certificate validation microservice](https://certs.ergosolo.ru/) for a touch-typing trainer, improving the core project's reliability.  
 - Integrated Elasticsearch and built backend and UI features for the microstock website’s [search functionality](https://ergofoto.ru/search).  
 
 ---
