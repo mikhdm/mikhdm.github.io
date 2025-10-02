@@ -22,7 +22,7 @@ A foundation in applied mathematics and ongoing studies at École 42 provide me 
 
 ## Work Experience
 
-### Textkernel by Bullhorn  — Sofware Engineer, AI Team 
+### Textkernel by Bullhorn  — Software Engineer, AI Team 
 
 *Amsterdam, Netherlands, October 2022 – Present 
 
