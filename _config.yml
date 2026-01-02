@@ -1,7 +1,7 @@
 title: Dmitry Mikhailenko
-email: d@mikhailenko.net
+email: dmitry@mikhailenko.net
 author:
-  email: d@mikhailenko.net
+  email: dmitry@mikhailenko.net
 description: >-
 
 baseurl: ""
@@ -16,7 +16,6 @@ plugins:
 minima:
   skin: solarized-light
   nav_pages:
-    - resume.md
     - contacts.md
   social_links:
     - url: https://github.com/mikhdm
