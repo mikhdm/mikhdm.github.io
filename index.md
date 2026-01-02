@@ -1,10 +1,9 @@
 ---
 layout: home
-title: Dmitry Mikhailenko
 ---
 
-My name is Dmitry, and this is my little corner of the web where I share my thoughts mostly on software engineering, mathematics and GIS and a variety of other topics that inspire me.
+Hi! My name is Dmitry, and this is my corner of the web where I share thoughts on software engineering, ML, GIS and whatever else catches my curiosity.
 
-You can write me via [E-mail](mailto:dmitry@mikhailenko.net) or [LinkedIn](https://linkedin.com/in/mikhdm).
+Reach me via [E-mail](mailto:dmitry@mikhailenko.net) or [LinkedIn](https://linkedin.com/in/mikhdm).
 
 This space is still brewing its first posts, stay tuned! ☕
